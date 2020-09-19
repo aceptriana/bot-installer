@@ -18,6 +18,8 @@ masuk ke ubuntu
 ```
 ./start-ubuntu20.sh
 
+apt update 
+
 apt install wget
 
 wget https://raw.githubusercontent.com/aceptriana/bot-installer/master/start.sh
