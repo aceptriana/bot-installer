@@ -16,7 +16,7 @@ sh ubuntu.sh
 masuk ke ubuntu
 
 ```
-./start-ubuntu.sh
+./start-ubuntu20.sh
 
 apt install wget
 
